@@ -8,7 +8,7 @@ function Homepage() {
     <div>
       <h1>Nunua Kenya</h1>
 
-      <img src={logo} style={{height:'350px', padding:'15px',marginTop:'-80px'}} className='logo'/>
+      <img src={logo} style={{height:'350px', padding:'15px',marginTop:'-80px'}} className='logo' alt='NunuaKe Logo'/>
       <div className='container'>
       <div className='buttons1'>
 
